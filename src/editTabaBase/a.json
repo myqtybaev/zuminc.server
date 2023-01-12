@@ -1,0 +1,40 @@
+[
+  {
+    "_id": "636e6e3088dddedab8313a03",
+    "label": "Covers",
+    "value": "Чехлы",
+    "attribute": [
+      "636e6aaa88dddedab83139df",
+      "636e6ac788dddedab83139e7",
+      "636e6d1c88dddedab83139ed",
+      "636e6d4f88dddedab83139f3"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "637dbe84aa37340b175d39d4",
+    "label": "Headphones",
+    "value": "Наушники",
+    "attribute": [
+      "636e6d4f88dddedab83139f3",
+      "637dbd7caa37340b175d39b0",
+      "637dbd8eaa37340b175d39b6",
+      "637dbda1aa37340b175d39bc",
+      "637dbdb3aa37340b175d39c2",
+      "637dbddbaa37340b175d39c8"
+    ],
+    "__v": 0
+  },
+  {
+    "_id": "63887f2cd4c15a47b5eb95c3",
+    "label": "Cable",
+    "value": "Кабель",
+    "attribute": [
+      "63887e95d4c15a47b5eb95bc",
+      "63887e77d4c15a47b5eb95b6",
+      "63887e55d4c15a47b5eb95b0",
+      "636e6ac788dddedab83139e7"
+    ],
+    "__v": 0
+  }
+]

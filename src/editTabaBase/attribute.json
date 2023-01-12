@@ -1,0 +1,100 @@
+[
+  {
+    "_id": { "$oid": "636a4b5788dddedab831392a" },
+    "label": "height",
+    "value": "Длина",
+    "type": "number",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "636a4b6688dddedab8313930" },
+    "label": "width",
+    "value": "Ширина",
+    "type": "number",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "636e6aaa88dddedab83139df" },
+    "label": "Type",
+    "value": "Тип",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "636e6ac788dddedab83139e7" },
+    "label": "Material",
+    "value": "Материал",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "636e6d1c88dddedab83139ed" },
+    "label": "Compatibility",
+    "value": "Совместимость",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "636e6d4f88dddedab83139f3" },
+    "label": "Features",
+    "value": "Особенности",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "637dbd7caa37340b175d39b0" },
+    "label": "Connection type",
+    "value": "Тип подключения",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "637dbd8eaa37340b175d39b6" },
+    "label": "Type of equipment",
+    "value": "Тип оборудования",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "637dbda1aa37340b175d39bc" },
+    "label": "Design",
+    "value": "Конструкция",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "637dbdb3aa37340b175d39c2" },
+    "label": "Bluetooth version",
+    "value": "Версия Bluetooth",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "637dbddbaa37340b175d39c8" },
+    "label": " Operating time without recharging",
+    "value": "Время работы без подзарядки",
+    "type": "number",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "63887e55d4c15a47b5eb95b0" },
+    "label": "Length of cable",
+    "value": "Длина кабеля",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "63887e77d4c15a47b5eb95b6" },
+    "label": "Connector type",
+    "value": "Вид разъема\t",
+    "type": "string",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "63887e95d4c15a47b5eb95bc" },
+    "label": "Equipment",
+    "value": "Комплектация",
+    "type": "string",
+    "__v": 0
+  }
+]
